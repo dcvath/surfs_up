@@ -12,7 +12,7 @@ Below, please find the three key differences in weather between June and Decembe
 
 - The minimum temperature in June is 64 degrees, compared to December at 56 degrees, which is a difference of 8 degrees. 
 
-- The maximum temperature in June is 85 degrees, compared to December 83 degrees, which is a difference of 2 degrees
+- The maximum temperature in June is 85 degrees, compared to December at 83 degrees, which is a difference of 2 degrees
 
 <img width="197" alt="June_Temp_Stats" src="https://user-images.githubusercontent.com/85654649/131231736-119af049-e6f3-4244-a022-74d64553c115.png">
 
