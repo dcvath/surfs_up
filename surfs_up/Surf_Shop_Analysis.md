@@ -8,7 +8,7 @@ The purpose of this analysis is to provide W. Avy with more information about te
 ## Results
 Below, please find the three key differences in weather between June and December:
 
-- There is a minimal difference in the mean (average) temperature of a almost 4 degrees (3.9), when comparing June and December.
+- There is a minimal difference in the mean (average) temperature of appproximately 4 degrees (3.9), when comparing June 74 degrees and December 71 degrees.
 
 - The minimum temperature in June is 64 degrees, compared to December at 56 degrees, which is a difference of 8 degrees. 
 
@@ -20,6 +20,9 @@ Below, please find the three key differences in weather between June and Decembe
 
 
 ## Summary
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
-1) How many days in December it fell below 64 degrees (the lowest temperature in June)
-2) Pull data from other hawaiian islands to see if there is another island that has more favoroable weather. 
+Overall, this analysis indicates that there are minimal differences between the weather in June and December in Oahu as the greatest difference in temperature is only 8 degrees. Based on the findings, the reward appears to be greater than the risk for this venture. 
+
+If W. Avy would like further analysis conducted, the recommendation would be to perform two additional queries on the June and December data:
+
+1) Deterrmrine how many days in December fell below 64 degrees, which is the lowest temperature in June), as falling below this temperature will likley have a negative impact on surfing and ice cream sales.
+2) Determine how many days in June hit between 80 - 85 degrees as this would likely increase surfing and ice cream sales, and help bridge the slightly lower sales in December. 
