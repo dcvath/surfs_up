@@ -1,23 +1,19 @@
-# Kickstarting with Excel
+# Surf and Ice Cream Shop Analysis
 
-## Overview of Project
+## Overview of the statistical analysis
 
 ### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
+The purpose of the analysis is well defined.
 
 ## Results
+There is a bulleted list that addresses the three key differences in weather between June and December.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- ...
 
-- What can you conclude about the Outcomes based on Goals?
+- ...
 
-- What are some limitations of this dataset?
+- ...
 
-- What are some other possible tables and/or graphs that we could create?
+
+## Summary
+There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
