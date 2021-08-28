@@ -25,4 +25,4 @@ Overall, this analysis indicates that there are minimal differences between the 
 If W. Avy would like further analysis conducted, the recommendation would be to perform two additional queries on the June and December data:
 
 1) Deterrmrine how many days in December fell below 64 degrees, which is the lowest temperature in June), as falling below this temperature will likley have a negative impact on surfing and ice cream sales.
-2) Determine how many days in June hit between 80 - 85 degrees as this would likely increase surfing and ice cream sales, and help bridge the slightly lower sales in December. 
+2) Determine how many days in June hit between 80 - 85 degrees as this would likely increase surfing and ice cream sales, and help bridge the gap of slightly lower sales in December. 
